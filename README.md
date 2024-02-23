@@ -16,7 +16,7 @@
   <li>👩🏻‍💻 Full-stack (Spring boot/Angular) developer
   <li>🌱 I'm currently learning Angular
   <li>🏆 Graduation project is a 9th rank winner in Dell Envision the Future competition 2022-23.
-  <li>📄 Know more about me through my <a href="https://drive.google.com/file/d/19ob4Qa-jnehbIt92sPcWA0vRXRy4f8ZJ/view?usp=sharing](https://drive.google.com/file/d/1loDP8NyjHN5pLrBVAL4frlOHxRjC_AUL/view?usp=sharing"> resume</a>.
+  <li>📄 Know more about me through my <a href="https://drive.google.com/file/d/1loDP8NyjHN5pLrBVAL4frlOHxRjC_AUL/view?usp=sharing"> resume</a>.
 </ul>
 
 ###
