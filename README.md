@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Computer Science graduate from Ain Shams University, constantly seeking opportunities to expand my knowledge and skills. 👩🏻‍💻</h3>
+<h3 align="left">A passionate Software Developer and a Computer Science graduate from Ain Shams University, constantly seeking opportunities to expand my knowledge and skills.👩🏻‍💻</h3>
 
 ###
 
@@ -13,9 +13,10 @@
 
 ###
 <ul>
-  <li>🌱 I'm currently learning React.js
+  <li>👩🏻‍💻 Full-stack (Spring boot/Angular) developer
+  <li>🌱 I'm currently learning Angular
   <li>🏆 Graduation project is a 9th rank winner in Dell Envision the Future competition 2022-23.
-  <li>📄 Know more about me through my <a href="https://drive.google.com/file/d/19ob4Qa-jnehbIt92sPcWA0vRXRy4f8ZJ/view?usp=sharing"> resume</a>.
+  <li>📄 Know more about me through my <a href="https://drive.google.com/file/d/19ob4Qa-jnehbIt92sPcWA0vRXRy4f8ZJ/view?usp=sharing](https://drive.google.com/file/d/1loDP8NyjHN5pLrBVAL4frlOHxRjC_AUL/view?usp=sharing"> resume</a>.
 </ul>
 
 ###
@@ -25,6 +26,14 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -60,4 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+ 
 </div>
